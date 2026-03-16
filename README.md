@@ -1,1 +1,1 @@
-# Iris-Detedtion-Syatem
+Iris Detection System
